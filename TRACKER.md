@@ -1,7 +1,47 @@
-# NeetCode 150 Tracker
+# NeetCode Tracker
 
-> 進捗: **0 / 150**  
-> 最終更新: 2026-04-23
+> Core Skills: **0 / 20** ／ NeetCode 150: **0 / 150**  
+> 最終更新: 2026-04-26
+
+---
+
+## Core Skills
+
+### Implement Data Structures (0/9)
+
+- [ ] Design Dynamic Array (Resizable Array) — Easy
+- [ ] Design Singly Linked List — Easy
+- [ ] Design Double-ended Queue — Easy
+- [ ] Design Binary Search Tree — Medium
+- [ ] Design Hash Table — Medium
+- [ ] Design Heap — Medium
+- [ ] Design Graph — Medium
+- [ ] Design Disjoint Set (Union-Find) — Medium
+- [ ] Design Segment Tree — Hard
+
+### Sorting (0/3)
+
+- [ ] Insertion Sort — Easy
+- [ ] Merge Sort — Medium
+- [ ] Quick Sort — Medium
+
+### Graphs (0/6)
+
+- [ ] Matrix Depth First Search — Medium
+- [ ] Matrix Breadth First Search — Medium
+- [ ] Dijkstra's Algorithm — Medium
+- [ ] Prim's Algorithm — Medium
+- [ ] Kruskal's Algorithm — Medium
+- [ ] Topological Sort — Medium
+
+### Dynamic Programming (0/2)
+
+- [ ] 0/1 Knapsack — Medium
+- [ ] Unbounded Knapsack — Medium
+
+---
+
+## NeetCode 150
 
 ## 使い方
 

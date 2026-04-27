@@ -1,14 +1,19 @@
-# NeetCode 150 Journey
+# NeetCode Journey
 
-[NeetCode 150](https://neetcode.io/roadmap) に挑戦する個人リポジトリ。パターン別に解いて、関係性を理解しながら実力をつけるのが目標。
+[NeetCode Core Skills](https://neetcode.io/practice/practice/coreSkills) → [NeetCode 150](https://neetcode.io/roadmap) の順で挑戦する個人リポジトリ。パターン別に解いて、関係性を理解しながら実力をつけるのが目標。
 
 ## 進捗
 
-- 解いた問題数: **0 / 150** (0%)
-- 開始日: 2026-04-23
-- 最終更新: 2026-04-23
+### Core Skills（0 / 20）
 
-### カテゴリ別
+| カテゴリ | 進捗 |
+|---|---|
+| Implement Data Structures | 0 / 9 |
+| Sorting | 0 / 3 |
+| Graphs | 0 / 6 |
+| Dynamic Programming | 0 / 2 |
+
+### NeetCode 150（0 / 150）
 
 | カテゴリ | 進捗 |
 |---|---|
@@ -31,6 +36,9 @@
 | Math & Geometry | 0 / 8 |
 | Bit Manipulation | 0 / 7 |
 
+- 開始日: 2026-04-23
+- 最終更新: 2026-04-26
+
 ## リポジトリ構成
 
 ```
@@ -39,6 +47,8 @@
 ├── INDEX.md           # カテゴリ別インデックス（パターン・前提・計算量・代表問題）
 ├── TRACKER.md         # 全150問のチェックリスト
 ├── solutions/         # 各問題の解答コード（カテゴリ別に分類）
+│   ├── data_structures/   # Core Skills: データ構造実装
+│   ├── sorting/           # Core Skills: ソート
 │   ├── arrays_hashing/
 │   ├── two_pointers/
 │   ├── sliding_window/

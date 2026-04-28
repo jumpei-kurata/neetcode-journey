@@ -1,7 +1,7 @@
 # NeetCode Tracker
 
-> Core Skills: **0 / 20** ／ NeetCode 150: **0 / 150**  
-> 最終更新: 2026-04-26
+> Core Skills: **0 / 20** ／ NeetCode 150: **1 / 150**  
+> 最終更新: 2026-04-28
 
 ---
 
@@ -60,9 +60,9 @@
 
 ---
 
-## Arrays & Hashing (0/9)
+## Arrays & Hashing (1/9)
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy — 解: 4/28
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) — Easy
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) — Medium
